@@ -1,0 +1,65 @@
+Buatkan saya table pengujian Black Box dari halaman yang saya kirim, atribut tabelnya yaitu:
+- Test Case
+- Hasil yang Diharapkan
+- Hasil Pengujian
+- Status (statusnya pass semua ya)
+
+semua data harus diisi, jika ada salah satu yang tidak diisi maka akan muncul notifikasi.
+
+persayaratan lain yaitu nanti akan muncul notifikasi, jika input data tidak sesuai: 
+- NIK harus terdiri dari 16 angka
+- Nama hanya boleh terdiri dari huruf dan spasi
+- Password terdiri minimal 8 karakter, 1 huruf kapital dan 1 angka
+- Nomor telepon hanya boleh terdiri dari angka
+
+
+
+Buatkan saya table pengujian Black Box dari halaman yang saya kirim, atribut tabelnya yaitu:
+- No
+- Test Case
+- Hasil yang Diharapkan
+- Hasil Pengujian
+- Status (statusnya pass semua ya)
+
+Menekan tombol daftar magang maka akan diarahkan ke form pengajuan lamaran magang
+
+Data yang ditampilkan otomatis diambil dari data yang ddinputkan pengguna saat registrasi akun.
+
+Pengguna harus menyentang salah satu pilihan, jika tidak maka tidak dapat ke halaman selanjutnya
+
+Pengguna wajib memilih durasi magang
+
+pengguna wajib mencentang pilihan menyetujui syarat dan ketentuan sebelum kirim. sesudah dikirim maka akan menampilkan notifikasi Lamaran sudah berhasil diajukan, dan pengguna akan diarahkan Kembali ke halaman daftar magang.
+
+
+
+Buatkan saya table pengujian Black Box dari halaman yang saya kirim, atribut tabelnya yaitu:
+- No
+- Test Case
+- Hasil yang Diharapkan
+- Hasil Pengujian
+- Status (statusnya pass semua ya)
+
+Catatan tambahan:
+- Untuk mengakses profil pengguna dapat diakses dari mana saja dengan menekan di bagian nama pada pojok kanan navbar, lalu pilih atau tekan menu
+
+- Menampilkan data lengkap pengguna yang sudah dimasukkan saat registrasi akun. (data yang sudah ada saat registrasi yaitu Foto, NIK, Email, Nama Lengkap, No Telp, NIM, Asal Universitas, dan Jurusan)
+
+- Untuk data sisanya yang belum ada dapat ditambahkan / dilengkapi oleh pengguna dengan menekan tombol Update Profile. maka akan diarahkan ke halaman edit profil pengguna
+
+
+
+
+Buatkan saya table pengujian Black Box dari halaman yang saya kirim, atribut tabelnya yaitu:
+- No
+- Test Case
+- Hasil yang Diharapkan
+- Hasil Pengujian
+- Status (statusnya pass semua ya)
+
+Catatan tambahan:
+- Untuk mengakses profil pengguna dapat diakses dari mana saja dengan menekan di bagian nama pada pojok kanan navbar, lalu pilih atau tekan menu
+
+- Menampilkan data lengkap pengguna yang sudah dimasukkan saat registrasi akun. (data yang sudah ada saat registrasi yaitu Foto, NIK, Email, Nama Lengkap, No Telp, NIM, Asal Universitas, dan Jurusan)
+
+- Untuk data sisanya yang belum ada dapat ditambahkan / dilengkapi oleh pengguna dengan menekan tombol Update Profile. maka akan diarahkan ke halaman edit profil pengguna
