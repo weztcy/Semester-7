@@ -1,0 +1,23 @@
+2.1 Metode Rekayasa Perangkat Lunak
+(Mayefis et al., 2023)
+
+	2.2.1 Metode Scrum
+	(Hema et al., 2020)
+
+2.2 Website
+(Wahyudin & Rahayu, 2020)
+
+2.3 Framework
+(Madurapperuma et al., 2022)
+
+	2.3.1 React JS
+	(Khati Chhetri, 2024)
+
+	2.3.2 Vite
+	(Khati Chhetri, 2024)
+
+2.3.3 Tailwind CSS
+(Al Salmi, 2023)
+
+2.5 UML Diagram
+(Tiwari et al., 2021)
