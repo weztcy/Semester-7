@@ -1,27 +1,3 @@
-Bagian 1:
+Link Kuota Dosen Pembimbing KP
 
-Semarang Timur
-Banyumanik
-Gajahmungkur
-Semarang Barat
-
-Bagian 2:
-
-Gunungpati
-Pedurungan
-Semarang Tengah
-Candisari
-
-Bagian 3:
-
-Mijen
-Tugu
-Semarang Utara
-Ngaliyan
-
-Bagian 4:
-
-Gayamsari
-Genuk
-Semarang Selatan
-Tembalang
+https://docs.google.com/spreadsheets/d/10NaRGH8MysQc0UYbTHRDSpmJE2_ih3ca/edit?usp=sharing&ouid=100955730297658881344&rtpof=true&sd=true
