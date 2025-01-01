@@ -1,0 +1,5 @@
+#Realisasi Materi ke-10
+
+1.      Mahasiswa mampu menjelaskan penulisan rujukan
+
+2.      Mahasiswa mampu mengimplementasi penulisan rujukan
